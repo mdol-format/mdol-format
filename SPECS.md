@@ -57,6 +57,7 @@ The first heading (if any) describes the file contents or type.
 ### Preferred Shorthand
 
 Use un-numbered lists without bullets for repeated entries, use heading for main sections.
+Use tab \\t characters instead of spaces.
 
 ### File Ending
 

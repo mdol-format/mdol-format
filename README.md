@@ -2,6 +2,8 @@
 
 A simple and easy to use object notation language based on markdown.
 
+Easy to use for humans and machines (LLMs).
+
 Status: DRAFT / IN PROGRESS
 
 ## Example
@@ -260,7 +262,7 @@ Value: example
   }
 }
 ```
-<details>
+</details>
 
 ## See Also
 
