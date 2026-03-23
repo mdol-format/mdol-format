@@ -31,11 +31,10 @@ JSON:
 }
 ```
 
-MDC:
+MDOL:
 
 ```md
 # Example Record 10
-// This is a comment
 
 Id: 10
 Hash: 9b87da04349185080af34e04895d4d66
@@ -59,7 +58,6 @@ or
 
 ```md
 # Example Record 10
-// This is a comment
 
 Id: 10
 Hash: 9b87da04349185080af34e04895d4d66
