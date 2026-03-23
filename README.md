@@ -217,8 +217,10 @@ For example, you can ask a LLM (without any knowledge about MDOL), to convert MD
 
 
 <details>
+    
 <summary>examples of LLM capability</summary>
-```
+
+```txt
 convert this into JSON format:
 
 # Example Record 10
@@ -244,7 +246,7 @@ Value: example
 
 >>>
 
-```
+```txt
 {
   "Id": 10,
   "Hash": "9b87da04349185080af34e04895d4d66",
@@ -262,6 +264,7 @@ Value: example
   }
 }
 ```
+
 </details>
 
 ## See Also
