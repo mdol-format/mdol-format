@@ -70,8 +70,12 @@ Properties:
         Type: string
         Enabled: true
         Value: example
-
 ```
+
+
+<details>
+<summary>more alternates</summary>
+
 or
 
 ```md
@@ -90,11 +94,6 @@ or
         - Enabled: true
         - Value: example
 ```
-
-
-
-<details>
-<summary>more alternates</summary>
 
 or
 
